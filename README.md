@@ -3,7 +3,10 @@
 A workshop on image collection and analysis using tiny aircraft, for people interested in turning their output from small unpiloted aircraft into meaningful data products.
 
 ## Software required
-- OpenDroneMap: https://opendronemap.org
+- OpenDroneMap for your platform: https://opendronemap.org
+- QGIS for your platform: https://qgis.org
+- Miniconda (prerequisite for PDAL) if needed: https://docs.conda.io/en/latest/miniconda.html
+- PDAL, the point data abstraction library: https://pdal.io (follow instructions to install using the Conda package manager)
 
 ## Discusssion topics
 - Safe flying: how to check local rules and regulations, and what to do if you are uncertain about whether flying drones is allowed
@@ -24,6 +27,6 @@ A workshop on image collection and analysis using tiny aircraft, for people inte
 ## Analysing results with PDAL
 - https://pdal.io
 
-## Discussion topics
-- Accuracy: what is meaningful?
+## Debrief topics
+- Accuracy: what is meaningful? What were our expectations and how did they match the results we got?
 - Data uses and limitations
