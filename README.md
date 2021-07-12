@@ -13,8 +13,17 @@ A workshop on image collection and analysis using tiny aircraft, for people inte
 ## Practical components
 - Flying to collect data: preflight, capture, postflight (only attendees with relevant licenses who have bought their own aircraft along)
 - Indoor data collection if possible for anyone who is not licensed, using a DJI Tello or similar
+- Ground control points
 - Processing with opendronemap:
--   WebODM
--   Command line
+    - WebODM
+    - Command line
 
 ## Analysing results in QGIS
+- https://qgis.org
+
+## Analysing results with PDAL
+- https://pdal.io
+
+## Discussion topics
+- Accuracy: what is meaningful?
+- Data uses and limitations
